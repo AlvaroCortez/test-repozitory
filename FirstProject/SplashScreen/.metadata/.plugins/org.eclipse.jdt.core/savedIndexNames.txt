@@ -1,6 +1,4 @@
-INDEX VERSION 1.126+C:\Users\1\Documents\Eclipse\SplashScreen\.metadata\.plugins\org.eclipse.jdt.core
-3375158189.index
-3655381002.index
-1524904522.index
-2141898006.index
+INDEX VERSION 1.126+C:\Users\1\Documents\Android\test-repozitory\FirstProject\SplashScreen\.metadata\.plugins\org.eclipse.jdt.core
+111194109.index
 1284074322.index
+1524904522.index

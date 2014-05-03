@@ -8,11 +8,11 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
 public class DemoActivity extends ListActivity {
-	final String[] catnames = new String[] { "Element1", "Element2",
-			"Element3", "Element4", "Element5", "Element6", "Element7",
-			"Element8", "Element9", "Element10", "Element11", "Element12",
-			"Element13", "Element14", "Element15", "Element16", "Element17",
-			"Element18", "Element19", "Element20", "" };
+	final String[] catnames = new String[] { "Ёлемент1", "Ёлемент2",
+			"Ёлемент3", "Ёлемент4", "Ёлемент5", "Ёлемент6", "Ёлемент7",
+			"Ёлемент8", "Ёлемент9", "Ёлемент10", "Ёлемент11", "Ёлемент12",
+			"Ёлемент13", "Ёлемент14", "Ёлемент15", "Ёлемент16", "Ёлемент17",
+			"Ёлемент18", "Ёлемент19", "Ёлемент20", "" };
 	private ArrayAdapter<String> adapter;
 
 	@Override
